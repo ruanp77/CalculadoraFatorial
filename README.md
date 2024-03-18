@@ -20,8 +20,3 @@ O projeto consiste em três arquivos principais:
 - O resultado é exibido abaixo do formulário.
 
 ## Como Usar
-
-1. Clone este repositório em sua máquina local:
-
-   ```bash
-   git clone https://github.com/ruanp77/calculadora-fatorial.git
