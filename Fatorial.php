@@ -34,5 +34,6 @@
         echo "<p>O fatorial de $numero é: " . calcularFatorial($numero) . "</p>";
     }
     ?>
+    
 </body>
 </html>

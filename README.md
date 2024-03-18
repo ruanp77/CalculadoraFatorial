@@ -24,4 +24,4 @@ O projeto consiste em três arquivos principais:
 1. Clone este repositório em sua máquina local:
 
    ```bash
-   git clone https://github.com/seu_usuario/calculadora-fatorial.git
+   git clone https://github.com/ruanp77/calculadora-fatorial.git
