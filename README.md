@@ -18,5 +18,3 @@ O projeto consiste em três arquivos principais:
 - O usuário pode inserir um número no campo de entrada.
 - Ao clicar no botão "Calcular Fatorial", o script PHP calcula o fatorial do número inserido.
 - O resultado é exibido abaixo do formulário.
-
-## Como Usar
